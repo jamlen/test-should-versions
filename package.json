@@ -1,0 +1,22 @@
+{
+  "name": "test-should-versions",
+  "version": "0.0.0",
+  "description": "Testing the different versions of should.js for behaviour change of the .eql method",
+  "main": "test.js",
+  "dependencies": {
+    "mocha": "^2.1.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jamlen/test-should-versions.git"
+  },
+  "author": "jamlen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jamlen/test-should-versions/issues"
+  },
+  "homepage": "https://github.com/jamlen/test-should-versions"
+}
